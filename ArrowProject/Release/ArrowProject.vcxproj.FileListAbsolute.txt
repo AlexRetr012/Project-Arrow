@@ -1,0 +1,4 @@
+C:\Users\print\source\repos\ArrowProject\ArrowProject\Release\ArrowProject.vcxproj.AssemblyReference.cache
+C:\Users\print\source\repos\ArrowProject\ArrowProject\Release\ArrowProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\print\source\repos\ArrowProject\ArrowProject\Release\ArrowProject.MyForm.resources
+C:\Users\print\source\repos\ArrowProject\ArrowProject\Release\ArrowProject.vcxproj.GenerateResource.cache
