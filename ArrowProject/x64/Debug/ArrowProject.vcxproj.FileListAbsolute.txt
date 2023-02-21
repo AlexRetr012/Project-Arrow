@@ -1,4 +1,0 @@
-C:\Users\print\source\repos\ArrowProject\ArrowProject\x64\Debug\ArrowProject.vcxproj.AssemblyReference.cache
-C:\Users\print\source\repos\ArrowProject\ArrowProject\x64\Debug\ArrowProject.vcxproj.SuggestedBindingRedirects.cache
-C:\Users\print\source\repos\ArrowProject\ArrowProject\x64\Debug\ArrowProject.MyForm.resources
-C:\Users\print\source\repos\ArrowProject\ArrowProject\x64\Debug\ArrowProject.vcxproj.GenerateResource.cache
